@@ -1,3 +1,7 @@
+---
+layout: single
+title: "레이아웃 리셋"
+---
 # 레이아웃 리셋
 
 ```css
