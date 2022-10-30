@@ -76,7 +76,5 @@ justify-content: space-evenly;  /* Distribute items evenly
 ```
 
 space-between : 첫번째 콘텐츠와 마지막 콘텐츠는 간격없이.
-
 space-around : 첫번째 콘텐츠와 마지막 콘텐츠는 간격의 반만큼.
-
 space-evenly : 모든 간격이 동일하게.
