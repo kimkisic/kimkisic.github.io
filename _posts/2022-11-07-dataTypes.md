@@ -1,10 +1,7 @@
-\---
-
+---
 layout: single
-
 title: "JavaScript Data Types"
-
-\---
+---
 
 # JavsScript의 데이터 타입(data types)
 
