@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "JavaScript Data Types"
+title: "Object Literal"
 ---
 
 # 객체 리터럴
