@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Object Literal"
+---
+
 # React Router Dom
 
 ```sh
