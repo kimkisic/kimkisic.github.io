@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Object Literal"
+title: "React Router Dom"
 ---
 
 # React Router Dom
